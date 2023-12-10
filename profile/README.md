@@ -1,3 +1,8 @@
-## Hi there 👋
+# Welcome to The Cove Github
 
-[![Discord](https://discord.com/widget?id=856232538334953492&theme=dark)](https://discord.com/widget?id=856232538334953492&theme=dark)
+## About Us
+The Cove Development Team was by Blaze and Griff who specialize in creating amazing game servers for server owners all of all kinds! For more information about a custom developed server please join us on [Discord](http://the-cove.net/discord)!
+
+
+### Current and Past Projects
+- WavyMC (play.wavymc.fun)
